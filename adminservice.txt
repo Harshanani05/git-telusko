@@ -1,7 +1,7 @@
 add and remove user
 change the roles
 manage databases
-closing the database connections
+closing the mysql database connections
 
 change1
 change2 in harsha's database
