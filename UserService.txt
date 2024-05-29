@@ -1,2 +1,4 @@
 Get the user data...
 harsha vardhan
+
+create an avatar for user
